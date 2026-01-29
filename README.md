@@ -44,7 +44,6 @@
 
 ## 🚀 Featured Projects
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
-  <!-- Project Cards -->
   <div style="width:320px; border-radius:12px; padding:20px; background:linear-gradient(135deg,#ff9a9e,#fecfef); box-shadow:0 10px 20px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor:pointer;">
     <h3>📦 techaxis2025</h3>
     <p>Jupyter Notebook project exploring Python and data analysis.</p>
@@ -52,15 +51,9 @@
   </div>
   
   <div style="width:320px; border-radius:12px; padding:20px; background:linear-gradient(135deg,#a18cd1,#fbc2eb); box-shadow:0 10px 20px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor:pointer;">
-    <h3>📦 project2</h3>
-    <p>Another project description goes here.</p>
-    <p>🛠 Python, FastAPI • <a href="https://github.com/SKY2055/project2" target="_blank">View Repo</a></p>
-  </div>
-
-  <div style="width:320px; border-radius:12px; padding:20px; background:linear-gradient(135deg,#f6d365,#fda085); box-shadow:0 10px 20px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor:pointer;">
-    <h3>📦 project3</h3>
-    <p>Another featured project description.</p>
-    <p>🛠 Tech stack • <a href="https://github.com/SKY2055/project3" target="_blank">View Repo</a></p>
+    <h3>📦 SKY2055</h3>
+    <p>Personal GitHub repository. Can be used to host experiments and projects.</p>
+    <p>🛠 Python • <a href="https://github.com/SKY2055/SKY2055" target="_blank">View Repo</a></p>
   </div>
 </div>
 
@@ -68,9 +61,7 @@
 
 ## 🎯 Currently Learning
 - Advanced Backend & API design with **FastAPI & Django**  
-- Modern **React + TypeScript** integrations  
 - **Data Analysis & Machine Learning** with Python, Pandas & NumPy  
-- CI/CD pipelines, testing & deployment
 
 ---
 
