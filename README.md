@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=Suraj+Kumar+Yadav;Building+real-world+projects+with+passion;Python;FastAPI;NumPy;Matplotlib;Seaborn;Django;"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=Suraj+Kumar+Yadav;Building+real-world+projects+with+passion;Python,FastAPI,NumPy,Matplotlib,Seaborn,Django;"/> 
 </p>
 
 ---
